@@ -1,3 +1,6 @@
+> **Hinweis:**  
+> Diese Version ist speziell für den kostenlosen ("Hobby") Plan von Vercel angepasst und erfüllt alle entsprechenden Funktions- und Timeout-Limits.
+
 <a href="https://ai-sdk-starter-groq.vercel.app">
   <h1 align="center">AI SDK Computer Use Demo</h1>
 </a>
@@ -26,7 +29,7 @@
 
 You can deploy your own version to Vercel by clicking the button below:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?project-name=AI+SDK+Computer+Use+Demo&repository-name=ai-sdk-computer-use&repository-url=https%3A%2F%2Fgithub.com%2Fvercel-labs%2Fai-sdk-computer-use&demo-title=AI+SDK+Computer+Use+Demo&demo-url=https%3A%2F%2Fai-sdk-computer-use.vercel.app%2F&demo-description=A+chatbot+application+built+with+Next.js+demonstrating+Anthropic+Claude+3.7+Sonnet%27s+computer+use+capabilities&env=ANTHROPIC_API_KEY,E2B_API_KEY)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?project-name=AI+SDK+Computer+Use+Demo&repository-name=ai-sdk-computer-use&repository-url=https%3A%2F%2Fgithub.com%2Fadmineral%2Fai-sdk-computer-use&demo-title=AI+SDK+Computer+Use+Demo&demo-url=https%3A%2F%2Fai-sdk-computer-use.vercel.app%2F&demo-description=A+chatbot+application+built+with+Next.js+demonstrating+Anthropic+Claude+3.7+Sonnet%27s+computer+use+capabilities&env=ANTHROPIC_API_KEY,E2B_API_KEY)
 
 ## Running Locally
 
