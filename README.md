@@ -1,5 +1,5 @@
-> **Hinweis:**  
-> Diese Version ist speziell für den kostenlosen ("Hobby") Plan von Vercel angepasst und erfüllt alle entsprechenden Funktions- und Timeout-Limits.
+> **Important Note:**  
+> This version has been specifically adapted for Vercel's free ("Hobby") plan, with all function timeouts and limits adjusted accordingly. The original version used a 300-second timeout, which is only available on paid plans. This version uses a 60-second timeout to comply with the free plan limitations.
 
 <a href="https://ai-sdk-starter-groq.vercel.app">
   <h1 align="center">AI SDK Computer Use Demo</h1>
